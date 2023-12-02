@@ -1,0 +1,54 @@
+select -> 655
+edad -> 999
+, -> 3
+correo -> 999
+, -> 3
+sueldo -> 999
+, -> 3
+from -> 309
+usuarios -> 999
+; -> 6
+
+SELECT -> 655
+* -> 7
+edad -> 999
+correo -> 999
+, -> 3
+sueldo -> 999
+FROM -> 309
+usuarios -> 999
+<= -> 16
+WHERE -> 800
+' -> 30
+nombre -> 999
+Juan15.51 -> 999
+' -> 30
+; -> 6
+
+select -> 655
+edad -> 999
+, -> 3
+correo -> 999
+, -> 3
+sueldo -> 999
+, -> 3
+from -> 309
+usuarios -> 999
+; -> 6
+
+SELECT -> 655
+* -> 7
+edad -> 999
+correo -> 999
+, -> 3
+sueldo -> 999
+FROM -> 309
+usuarios -> 999
+WHERE -> 800
+nombre -> 999
+<= -> 16
+' -> 30
+Juan15.51 -> 999
+' -> 30
+; -> 6
+
