@@ -13,5 +13,4 @@ FROM    => 245
 tabla      => 999
 ;              =>  12
 
-Les anexo un archivo con los tokens que están utilizando los de escolarizado pueden utilizar ese mismo o crear uno propio.
-Estos tokens deben ser guardados en un archivo nuevo separados por renglones.
+Se utilizo el diccionario de tokens previante proporcionado por Pako con leves modificaciones, se guarndan los resultados en un archivo log que contienen el lexico separado con su respectivo token como el del ejemplo
